@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLoay&show_icons=true&theme=tokyonight&hide_border=true" alt="Loay's GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MrLoay&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Loay's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLoay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrLoay&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
 </div>
